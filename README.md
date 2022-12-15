@@ -6,11 +6,11 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 
 Run this command in your GitHub CLI
 
-- gh repo clone codingXpert/demo
+- https://github.com/sagar-demo
 
 # or use the URL
 
-https://github.com/codingXpert/demo
+https://github.com/sagar-demo
 
 # Features
 
@@ -25,11 +25,10 @@ https://github.com/codingXpert/demo
 -Used Bootstrap for neat UI.
 
 # Screen Shots
-![Screenshot (140)](https://user-images.githubusercontent.com/101451924/183921458-6a2113ec-2780-48fb-9eba-afc6febb4acb.png)
-![Screenshot (141)](https://user-images.githubusercontent.com/101451924/183921498-6be65a70-0e8e-466e-bdab-7493b416b139.png)
-![Screenshot (142)](https://user-images.githubusercontent.com/101451924/183921522-e9036f9d-7505-4a5d-9a09-52ebbea2835d.png)
-![Screenshot (143)](https://user-images.githubusercontent.com/101451924/183921551-620464d3-ea88-442c-b900-68b71e2845f1.png)
+
+![image](https://user-images.githubusercontent.com/64120304/207872516-1f41e6ed-0d0b-4907-83c8-ede84a86bb3e.png)
+
 
 # Hosted URL
 
-https://dem00000.herokuapp.com/
+https://issue-tracker-project.onrender.com
